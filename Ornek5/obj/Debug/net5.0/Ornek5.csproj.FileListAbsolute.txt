@@ -1,0 +1,16 @@
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.csproj.AssemblyReference.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.AssemblyInfoInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.AssemblyInfo.cs
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.exe
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.deps.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.runtimeconfig.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.runtimeconfig.dev.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\ref\Ornek5.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\bin\Debug\net5.0\Ornek5.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\ref\Ornek5.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek5\obj\Debug\net5.0\Ornek5.genruntimeconfig.cache

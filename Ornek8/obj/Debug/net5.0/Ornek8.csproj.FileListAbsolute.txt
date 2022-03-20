@@ -1,0 +1,16 @@
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.exe
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.deps.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.runtimeconfig.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.runtimeconfig.dev.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\ref\Ornek8.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\bin\Debug\net5.0\Ornek8.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.csproj.AssemblyReference.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.AssemblyInfoInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.AssemblyInfo.cs
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\ref\Ornek8.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek8\obj\Debug\net5.0\Ornek8.genruntimeconfig.cache

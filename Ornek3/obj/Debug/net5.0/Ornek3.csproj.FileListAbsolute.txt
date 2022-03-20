@@ -1,0 +1,16 @@
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.csproj.AssemblyReference.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.AssemblyInfoInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.AssemblyInfo.cs
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.csproj.CoreCompileInputs.cache
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.exe
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.deps.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.runtimeconfig.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.runtimeconfig.dev.json
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\ref\Ornek3.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\bin\Debug\net5.0\Ornek3.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\ref\Ornek3.dll
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.pdb
+C:\Users\tahaa\Desktop\cs\AlgoritmaOrnekleri\Ornek3\obj\Debug\net5.0\Ornek3.genruntimeconfig.cache
